@@ -1,4 +1,5 @@
 apiVersion: backstage.io/pom/product
+test: Esto es i commit de prueba
 kind: Component
 metadata:
   name: product
