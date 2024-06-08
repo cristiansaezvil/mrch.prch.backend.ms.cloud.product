@@ -1,4 +1,5 @@
 apiVersion: backstage.io/pom/product
+cris: otro test
 kind: Component
 metadata:
   name: product
